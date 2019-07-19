@@ -14,6 +14,6 @@ Labeled data of training and testing sets is provided in the repo. Download GloV
 
 ## Results
 
-![result](emojify_result.PNG)
+![result on test set](emojify_result.PNG)
 
 
